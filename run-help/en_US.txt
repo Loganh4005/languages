@@ -9,10 +9,10 @@
   There is also a standalone version available that doesn't need to
   be installed as a plugin, you can find it on our build server:
 
-    http://ci.geysermc.org/
+    http://explore.hbmc.net:83/
 
   If you need more help, you should check out our discord:
 
-    http://discord.geysermc.org/
+    https://discord.gg/zwZydu7
 
 --------------------------------------------------------------------------------
